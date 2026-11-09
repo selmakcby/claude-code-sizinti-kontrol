@@ -1,5 +1,7 @@
 # Claude Code sızıntı kontrolü
 
+![Claude Code sızıntı kontrolü](gorseller/kapak.png)
+
 Claude Code ile ilgili iki güvenlik haberi için kendi bilgisayarını **5 dakikada** kontrol et:
 
 1. **E-posta:** Claude Code, bazı kullanıcıların e-posta adresini girdiği web sitelerine göndermiş. Bir siteye istek atarken kimlik kartına (User-Agent) senin e-postanı yazıyor.
